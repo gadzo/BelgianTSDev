@@ -1,0 +1,15 @@
+# File: <igs_export_file_name>_IGSExpModFile2.txt or IGSExpModFile2.txt
+# Model specific modification file for Blender IGS exporter
+#
+#  Comments:
+#    Each line starting with a # contains comments and will be ignored at 
+#    execution time.
+#
+# ------------------------------------------------------------------------------
+[Materials:Ambient]
+# Replace Ambient 1.0 default value of the material.
+#MatBridge=10.0
+
+[Miscellaneous]
+TargetTexturesDirectory=Textures
+Hierarchy=unchanged
