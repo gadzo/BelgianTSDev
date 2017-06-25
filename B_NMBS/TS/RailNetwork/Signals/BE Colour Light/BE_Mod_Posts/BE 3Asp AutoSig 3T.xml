@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cSignalBlueprint>
+	<Element>
+		<Value>
+			<Attribute name="Name">
+				<cDeltaString>
+					<Element>
+						<Value>BE 3Asp CtrlSig 3Ta</Value>
+					</Element>
+				</cDeltaString>
+			</Attribute>
+			<Attribute name="BrowseInformation">
+				<iBrowseableBlueprint-cBrowseInformation>
+					<Element>
+						<Value>
+							<Attribute name="DisplayName">
+								<Localisation-cUserLocalisedString>
+									<Element>
+										<Value>
+											<Attribute name="English">
+												<cDeltaString>
+													<Element>
+														<Value>BE 3Asp CtrlSig 3Ta</Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="French">
+												<cDeltaString>
+													<Element>
+														<Value>SigCtrl 3Asp 3V RUa</Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Italian">
+												<cDeltaString>
+													<Element>
+														<Value>BE 3Asp SegnContr 3Ta</Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="German">
+												<cDeltaString>
+													<Element>
+														<Value>GB 3Bgr StrgSig 3Ga</Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Spanish">
+												<cDeltaString>
+													<Element>
+														<Value>BE 3Asp CtrlSeñ 3Va</Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Arabic">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Basque">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Bulgarian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Catalan">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Croatian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Czech">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Danish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Dutch">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Finnish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="FrenchCA">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Greek">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Hungarian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Indonesian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Japanese">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Korean">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Norwegian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Polish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Portuguese">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="PortugueseBR">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Romanian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Russian">
+												<cDeltaString>
+													<Element>
+														<Value>BE 3Asp CtrlSig 3T</Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Serbian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="SimpChinese">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Slovak">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Slovenian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Swedish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Thai">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="TradChinese">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Turkish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Other">
+												<__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+													<Element>
+														<Value/>
+													</Element>
+												</__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+											</Attribute>
+										</Value>
+									</Element>
+								</Localisation-cUserLocalisedString>
+							</Attribute>
+							<Attribute name="Category">
+								<iBrowseableBlueprint-eBrowseableCategory>
+									<Element>
+										<Value>eTrackInfrastructure</Value>
+									</Element>
+								</iBrowseableBlueprint-eBrowseableCategory>
+							</Attribute>
+							<Attribute name="ValidInScenarios">
+								<eBoolean>
+									<Element>
+										<Value>eFalse</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+						</Value>
+					</Element>
+				</iBrowseableBlueprint-cBrowseInformation>
+			</Attribute>
+			<Attribute name="_posori">
+				<cPosOriBlueprint>
+					<Element>
+						<Value/>
+					</Element>
+				</cPosOriBlueprint>
+			</Attribute>
+			<Attribute name="_object">
+				<cSceneryRenderBlueprint>
+					<Element>
+						<Value>
+							<Attribute name="PrimaryNamedTextureSet">
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<Element>
+										<Value>
+											<Attribute name="BlueprintSetID">
+												<iBlueprintLibrary-cBlueprintSetID>
+													<Element>
+														<Value>
+															<Attribute name="Provider">
+																<cDeltaString>
+																	<Element>
+																		<Value></Value>
+																	</Element>
+																</cDeltaString>
+															</Attribute>
+															<Attribute name="Product">
+																<cDeltaString>
+																	<Element>
+																		<Value></Value>
+																	</Element>
+																</cDeltaString>
+															</Attribute>
+														</Value>
+													</Element>
+												</iBlueprintLibrary-cBlueprintSetID>
+											</Attribute>
+											<Attribute name="BlueprintID">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+										</Value>
+									</Element>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</Attribute>
+							<Attribute name="SecondaryNamedTextureSet">
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<Element>
+										<Value>
+											<Attribute name="BlueprintSetID">
+												<iBlueprintLibrary-cBlueprintSetID>
+													<Element>
+														<Value>
+															<Attribute name="Provider">
+																<cDeltaString>
+																	<Element>
+																		<Value></Value>
+																	</Element>
+																</cDeltaString>
+															</Attribute>
+															<Attribute name="Product">
+																<cDeltaString>
+																	<Element>
+																		<Value></Value>
+																	</Element>
+																</cDeltaString>
+															</Attribute>
+														</Value>
+													</Element>
+												</iBlueprintLibrary-cBlueprintSetID>
+											</Attribute>
+											<Attribute name="BlueprintID">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+										</Value>
+									</Element>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</Attribute>
+							<Attribute name="GeometryID">
+								<cDeltaString>
+									<Element>
+										<Value>RailNetwork\Signals\BE Colour Light\BE_Mod_Posts\mod_be_post_1</Value>
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="CollisionGeometryID">
+								<cDeltaString>
+									<Element>
+										<Value></Value>
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="Pickable">
+								<eBoolean>
+									<Element>
+										<Value>eTrue</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="ShadowType">
+								<eShadowType>
+									<Element>
+										<Value>eShadowType_Blobby</Value>
+									</Element>
+								</eShadowType>
+							</Attribute>
+							<Attribute name="HeatHaze">
+								<__Indexed__cSceneryRenderBlueprint-sHeatHaze>
+									<Element>
+										<Value/>
+									</Element>
+								</__Indexed__cSceneryRenderBlueprint-sHeatHaze>
+							</Attribute>
+							<Attribute name="TexText">
+								<__Indexed__cSceneryRenderBlueprint-sTexText>
+									<Element>
+										<Value/>
+									</Element>
+								</__Indexed__cSceneryRenderBlueprint-sTexText>
+							</Attribute>
+							<Attribute name="ProjectedLightElement">
+								<__Indexed__cSceneryRenderBlueprint-sProjectedLight>
+									<Element>
+										<Value/>
+									</Element>
+								</__Indexed__cSceneryRenderBlueprint-sProjectedLight>
+							</Attribute>
+							<Attribute name="Instancable">
+								<bool>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</bool>
+							</Attribute>
+							<Attribute name="DetailLevelGenerationRange">
+								<cSceneryRenderBlueprint-sDetailLevelGenerationRange>
+									<Element>
+										<Value>
+											<Attribute name="HighestLevel_1isHighest">
+												<sInt32>
+													<Element>
+														<Value>10</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="LowestLevel_10isLowest">
+												<sInt32>
+													<Element>
+														<Value>10</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cSceneryRenderBlueprint-sDetailLevelGenerationRange>
+							</Attribute>
+						</Value>
+					</Element>
+				</cSceneryRenderBlueprint>
+			</Attribute>
+			<Attribute name="_signal">
+				<cSignalComponentBlueprint>
+					<Element>
+						<Value>
+							<Attribute name="NumberOfTrackLinks">
+								<sUInt32>
+									<Element>
+										<Value>4</Value>
+									</Element>
+								</sUInt32>
+							</Attribute>
+							<Attribute name="Stopping">
+								<eBoolean>
+									<Element>
+										<Value>eTrue</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+						</Value>
+					</Element>
+				</cSignalComponentBlueprint>
+			</Attribute>
+			<Attribute name="_script">
+				<cScriptComponentBlueprint>
+					<Element>
+						<Value>
+							<Attribute name="Name">
+								<cDeltaString>
+									<Element>
+										<Value>RailNetwork\Signals\BE Colour Light\BE 3AspSig Post Auto.lua</Value>
+									</Element>
+								</cDeltaString>
+							</Attribute>
+						</Value>
+					</Element>
+				</cScriptComponentBlueprint>
+			</Attribute>
+			<Attribute name="_container">
+				<cEntityContainerBlueprint>
+					<Element>
+						<Value>
+							<Attribute name="Children">
+								<__Indexed__cEntityContainerBlueprint-sChild>
+									<Element>
+										<Value>
+											<cEntityContainerBlueprint-sChild>
+												<Element>
+													<Value>
+														<Attribute name="ChildName">
+															<cDeltaString>
+																<Element>
+																	<Value>3 Aspect Signal Head</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<iBlueprintLibrary-cAbsoluteBlueprintID>
+																<Element>
+																	<Value>
+																		<Attribute name="BlueprintSetID">
+																			<iBlueprintLibrary-cBlueprintSetID>
+																				<Element>
+																					<Value>
+																						<Attribute name="Provider">
+																							<cDeltaString>
+																								<Element>
+																									<Value>B_NMBS</Value>
+																								</Element>
+																							</cDeltaString>
+																						</Attribute>
+																						<Attribute name="Product">
+																							<cDeltaString>
+																								<Element>
+																									<Value>TS</Value>
+																								</Element>
+																							</cDeltaString>
+																						</Attribute>
+																					</Value>
+																				</Element>
+																			</iBlueprintLibrary-cBlueprintSetID>
+																		</Attribute>
+																		<Attribute name="BlueprintID">
+																			<cDeltaString>
+																				<Element>
+																					<Value>RailNetwork\Signals\BE Colour Light\BE_Mod_Heads\Mod_hd_3asp.xml</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cAbsoluteBlueprintID>
+														</Attribute>
+														<Attribute name="Matrix">
+															<cHcRMatrix4x4>
+																<Element>
+																	<Value>
+																		<Attribute name="Element">
+																			<__Indexed__sFloat32>
+																				<Element>
+																					<Value>
+																						<sFloat32>
+																							<Element>
+																								<Value>1.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>1.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>1.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>3.848783</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>0.000000</Value>
+																							</Element>
+																						</sFloat32>
+																						<sFloat32>
+																							<Element>
+																								<Value>1.000000</Value>
+																							</Element>
+																						</sFloat32>
+																					</Value>
+																				</Element>
+																			</__Indexed__sFloat32>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</cHcRMatrix4x4>
+														</Attribute>
+													</Value>
+												</Element>
+											</cEntityContainerBlueprint-sChild>
+										</Value>
+									</Element>
+								</__Indexed__cEntityContainerBlueprint-sChild>
+							</Attribute>
+						</Value>
+					</Element>
+				</cEntityContainerBlueprint>
+			</Attribute>
+		</Value>
+	</Element>
+</cSignalBlueprint>
