@@ -114,24 +114,29 @@ function DefaultSetLights ( newState )
 		SwitchLight( LIGHT_NODE_YELLOW,		0 )
 		SwitchLight( LIGHT_NODE_YELLOW2,	0 )
 		SwitchLight( LIGHT_NODE_RED,		0 )
+		SwitchLight( LIGHT_NODE_RED,		0 )
+		SwitchLight( LIGHT_NODE_WHITE, 		0 )
 
 	elseif (newState == ANIMSTATE_DOUBLE_YELLOW) then
 		SwitchLight( LIGHT_NODE_GREEN,		0 )
 		SwitchLight( LIGHT_NODE_YELLOW,		1 )
 		SwitchLight( LIGHT_NODE_YELLOW2,	1 )
 		SwitchLight( LIGHT_NODE_RED, 		0 )
+		SwitchLight( LIGHT_NODE_WHITE, 		0 )
 
 	elseif (newState == ANIMSTATE_YELLOW) then
 		SwitchLight( LIGHT_NODE_GREEN,		0 )
 		SwitchLight( LIGHT_NODE_YELLOW,		1 )
 		SwitchLight( LIGHT_NODE_YELLOW2,	0 )
 		SwitchLight( LIGHT_NODE_RED, 		0 )
+		SwitchLight( LIGHT_NODE_WHITE, 		0 )
 
 	elseif (newState == ANIMSTATE_RED) then
 		SwitchLight( LIGHT_NODE_GREEN,		0 )
 		SwitchLight( LIGHT_NODE_YELLOW,		0 )
 		SwitchLight( LIGHT_NODE_YELLOW2,	0 )
 		SwitchLight( LIGHT_NODE_RED, 		1 )
+		SwitchLight( LIGHT_NODE_WHITE, 		0 )
 		
 	elseif (newState >= ANIMSTATE_FLASHING_YELLOW) then
 		-- Lights are flashing, turn them all off and then start update loop
@@ -139,6 +144,7 @@ function DefaultSetLights ( newState )
 		SwitchLight( LIGHT_NODE_YELLOW,		0 )
 		SwitchLight( LIGHT_NODE_YELLOW2,	0 )
 		SwitchLight( LIGHT_NODE_RED, 		0 )
+		SwitchLight( LIGHT_NODE_WHITE, 		0 )
 		Call( "BeginUpdate" )
 	else
 		Print( ("ERROR: SetLights trying to switch to invalid state " .. newState ) )

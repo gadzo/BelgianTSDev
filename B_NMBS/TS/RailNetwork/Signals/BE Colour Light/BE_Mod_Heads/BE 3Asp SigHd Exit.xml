@@ -5,7 +5,7 @@
 			<Attribute name="Name">
 				<cDeltaString>
 					<Element>
-						<Value>UK 3Asp SigHd 1T</Value>
+						<Value>BE 3Asp SigHd 1T</Value>
 					</Element>
 				</cDeltaString>
 			</Attribute>
@@ -20,7 +20,7 @@
 											<Attribute name="English">
 												<cDeltaString>
 													<Element>
-														<Value>UK 3Asp SigHd 1T</Value>
+														<Value>BE 3Asp SigHd 1T</Value>
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -34,7 +34,7 @@
 											<Attribute name="Italian">
 												<cDeltaString>
 													<Element>
-														<Value>UK 3Asp SegnHd 1T</Value>
+														<Value>BE 3Asp SegnHd 1T</Value>
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -48,7 +48,7 @@
 											<Attribute name="Spanish">
 												<cDeltaString>
 													<Element>
-														<Value>UK 3Asp SeñCa 1V</Value>
+														<Value>BE 3Asp SeñCa 1V</Value>
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -69,7 +69,7 @@
 											<Attribute name="Russian">
 												<cDeltaString>
 													<Element>
-														<Value>UK 3Asp SigHd 1T</Value>
+														<Value>BE 3Asp SigHd 1T</Value>
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -190,7 +190,7 @@
 							<Attribute name="GeometryID">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Signals\UK Colour Light\UK_Mod_Heads\Mod_hd_3asp.IGS</Value>
+										<Value>RailNetwork\Signals\BE Colour Light\BE_Mod_Heads\mod_be_hd.igs</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -359,7 +359,7 @@
 							<Attribute name="Name">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Signals\UK Colour Light\UK 3AspSig Head.lua</Value>
+										<Value>RailNetwork\Signals\BE Colour Light\BE 3AspSig Head.lua</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
