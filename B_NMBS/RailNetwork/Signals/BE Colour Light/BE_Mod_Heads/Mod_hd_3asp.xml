@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cAnimSceneryBlueprint>
+	<Element>
+		<Value>
+			<Attribute name="Name">
+				<cDeltaString>
+					<Element>
+						<Value>Mod_hd_3asp</Value>
+					</Element>
+				</cDeltaString>
+			</Attribute>
+			<Attribute name="BrowseInformation">
+				<iBrowseableBlueprint-cBrowseInformation>
+					<Element>
+						<Value>
+							<Attribute name="DisplayName">
+								<Localisation-cUserLocalisedString>
+									<Element>
+										<Value>
+											<Attribute name="English">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="French">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Italian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="German">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Spanish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Arabic">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Basque">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Bulgarian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Catalan">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Croatian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Czech">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Danish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Dutch">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Finnish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="FrenchCA">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Greek">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Hungarian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Indonesian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Japanese">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Korean">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Norwegian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Polish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Portuguese">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="PortugueseBR">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Romanian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Russian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Serbian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="SimpChinese">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Slovak">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Slovenian">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Swedish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Thai">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="TradChinese">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Turkish">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Other">
+												<__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+													<Element>
+														<Value/>
+													</Element>
+												</__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+											</Attribute>
+										</Value>
+									</Element>
+								</Localisation-cUserLocalisedString>
+							</Attribute>
+							<Attribute name="Category">
+								<iBrowseableBlueprint-eBrowseableCategory>
+									<Element>
+										<Value>eTrackInfrastructure</Value>
+									</Element>
+								</iBrowseableBlueprint-eBrowseableCategory>
+							</Attribute>
+							<Attribute name="ValidInScenarios">
+								<eBoolean>
+									<Element>
+										<Value>eFalse</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+						</Value>
+					</Element>
+				</iBrowseableBlueprint-cBrowseInformation>
+			</Attribute>
+			<Attribute name="RenderComponent">
+				<cAnimSceneryRenderBlueprint>
+					<Element>
+						<Value>
+							<Attribute name="PrimaryNamedTextureSet">
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<Element>
+										<Value>
+											<Attribute name="BlueprintSetID">
+												<iBlueprintLibrary-cBlueprintSetID>
+													<Element>
+														<Value>
+															<Attribute name="Provider">
+																<cDeltaString>
+																	<Element>
+																		<Value></Value>
+																	</Element>
+																</cDeltaString>
+															</Attribute>
+															<Attribute name="Product">
+																<cDeltaString>
+																	<Element>
+																		<Value></Value>
+																	</Element>
+																</cDeltaString>
+															</Attribute>
+														</Value>
+													</Element>
+												</iBlueprintLibrary-cBlueprintSetID>
+											</Attribute>
+											<Attribute name="BlueprintID">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+										</Value>
+									</Element>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</Attribute>
+							<Attribute name="SecondaryNamedTextureSet">
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<Element>
+										<Value>
+											<Attribute name="BlueprintSetID">
+												<iBlueprintLibrary-cBlueprintSetID>
+													<Element>
+														<Value>
+															<Attribute name="Provider">
+																<cDeltaString>
+																	<Element>
+																		<Value></Value>
+																	</Element>
+																</cDeltaString>
+															</Attribute>
+															<Attribute name="Product">
+																<cDeltaString>
+																	<Element>
+																		<Value></Value>
+																	</Element>
+																</cDeltaString>
+															</Attribute>
+														</Value>
+													</Element>
+												</iBlueprintLibrary-cBlueprintSetID>
+											</Attribute>
+											<Attribute name="BlueprintID">
+												<cDeltaString>
+													<Element>
+														<Value></Value>
+													</Element>
+												</cDeltaString>
+											</Attribute>
+										</Value>
+									</Element>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</Attribute>
+							<Attribute name="GeometryID">
+								<cDeltaString>
+									<Element>
+										<Value>RailNetwork\Signals\UK Colour Light\UK_Mod_Heads\Mod_hd_3asp</Value>
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="CollisionGeometryID">
+								<cDeltaString>
+									<Element>
+										<Value></Value>
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="Pickable">
+								<eBoolean>
+									<Element>
+										<Value>eTrue</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="ShadowType">
+								<eShadowType>
+									<Element>
+										<Value>eShadowType_Blobby</Value>
+									</Element>
+								</eShadowType>
+							</Attribute>
+							<Attribute name="HeatHaze">
+								<__Indexed__cSceneryRenderBlueprint-sHeatHaze>
+									<Element>
+										<Value/>
+									</Element>
+								</__Indexed__cSceneryRenderBlueprint-sHeatHaze>
+							</Attribute>
+							<Attribute name="TexText">
+								<__Indexed__cSceneryRenderBlueprint-sTexText>
+									<Element>
+										<Value/>
+									</Element>
+								</__Indexed__cSceneryRenderBlueprint-sTexText>
+							</Attribute>
+							<Attribute name="ProjectedLightElement">
+								<__Indexed__cSceneryRenderBlueprint-sProjectedLight>
+									<Element>
+										<Value/>
+									</Element>
+								</__Indexed__cSceneryRenderBlueprint-sProjectedLight>
+							</Attribute>
+							<Attribute name="Instancable">
+								<bool>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</bool>
+							</Attribute>
+							<Attribute name="DetailLevelGenerationRange">
+								<cSceneryRenderBlueprint-sDetailLevelGenerationRange>
+									<Element>
+										<Value>
+											<Attribute name="HighestLevel_1isHighest">
+												<sInt32>
+													<Element>
+														<Value>10</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="LowestLevel_10isLowest">
+												<sInt32>
+													<Element>
+														<Value>10</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cSceneryRenderBlueprint-sDetailLevelGenerationRange>
+							</Attribute>
+							<Attribute name="AnimSet">
+								<__Indexed__cAnimSceneryRenderBlueprint-cAutoAnimation>
+									<Element>
+										<Value/>
+									</Element>
+								</__Indexed__cAnimSceneryRenderBlueprint-cAutoAnimation>
+							</Attribute>
+						</Value>
+					</Element>
+				</cAnimSceneryRenderBlueprint>
+			</Attribute>
+			<Attribute name="PosOriComponent">
+				<cPosOriBlueprint>
+					<Element>
+						<Value/>
+					</Element>
+				</cPosOriBlueprint>
+			</Attribute>
+			<Attribute name="ContainerComponent">
+				<cEntityContainerBlueprint>
+					<Element>
+						<Value>
+							<Attribute name="Children">
+								<__Indexed__cEntityContainerBlueprint-sChild>
+									<Element>
+										<Value/>
+									</Element>
+								</__Indexed__cEntityContainerBlueprint-sChild>
+							</Attribute>
+						</Value>
+					</Element>
+				</cEntityContainerBlueprint>
+			</Attribute>
+		</Value>
+	</Element>
+</cAnimSceneryBlueprint>
