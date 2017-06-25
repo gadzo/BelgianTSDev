@@ -20,247 +20,150 @@
 											<Attribute name="English">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="French">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="Italian">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="German">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="Spanish">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Arabic">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Basque">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Bulgarian">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Catalan">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Croatian">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Czech">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Danish">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="Dutch">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Finnish">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="FrenchCA">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Greek">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Hungarian">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Indonesian">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Japanese">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Korean">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Norwegian">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="Polish">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Portuguese">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="PortugueseBR">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Romanian">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="Russian">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Serbian">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="SimpChinese">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Slovak">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Slovenian">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Swedish">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Thai">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="TradChinese">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Turkish">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="Other">
 												<__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
 													<Element>
-														<Value/>
+														<Value />
 													</Element>
 												</__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+											</Attribute>
+											<Attribute name="Key">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+										</Value>
+									</Element>
+								</Localisation-cUserLocalisedString>
+							</Attribute>
+							<Attribute name="Description">
+								<Localisation-cUserLocalisedString>
+									<Element>
+										<Value>
+											<Attribute name="English">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="French">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Italian">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="German">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Spanish">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Dutch">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Polish">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Russian">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Other">
+												<__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+													<Element>
+														<Value />
+													</Element>
+												</__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+											</Attribute>
+											<Attribute name="Key">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
 											</Attribute>
 										</Value>
 									</Element>
@@ -299,14 +202,14 @@
 															<Attribute name="Provider">
 																<cDeltaString>
 																	<Element>
-																		<Value></Value>
+																		<Value />
 																	</Element>
 																</cDeltaString>
 															</Attribute>
 															<Attribute name="Product">
 																<cDeltaString>
 																	<Element>
-																		<Value></Value>
+																		<Value />
 																	</Element>
 																</cDeltaString>
 															</Attribute>
@@ -317,7 +220,7 @@
 											<Attribute name="BlueprintID">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -336,14 +239,14 @@
 															<Attribute name="Provider">
 																<cDeltaString>
 																	<Element>
-																		<Value></Value>
+																		<Value />
 																	</Element>
 																</cDeltaString>
 															</Attribute>
 															<Attribute name="Product">
 																<cDeltaString>
 																	<Element>
-																		<Value></Value>
+																		<Value />
 																	</Element>
 																</cDeltaString>
 															</Attribute>
@@ -354,7 +257,7 @@
 											<Attribute name="BlueprintID">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -365,18 +268,25 @@
 							<Attribute name="GeometryID">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Signals\UK Colour Light\UK_Mod_Heads\Mod_hd_3asp</Value>
+										<Value>RailNetwork\Signals\BE Colour Light\BE_Mod_Heads\mod_be_hd.igs</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
 							<Attribute name="CollisionGeometryID">
 								<cDeltaString>
 									<Element>
-										<Value></Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
 							<Attribute name="Pickable">
+								<eBoolean>
+									<Element>
+										<Value>eTrue</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="CastsShadows">
 								<eBoolean>
 									<Element>
 										<Value>eTrue</Value>
@@ -390,24 +300,59 @@
 									</Element>
 								</eShadowType>
 							</Attribute>
+							<Attribute name="ViewType">
+								<cSceneryRenderBlueprint-eViewType>
+									<Element>
+										<Value>ExternalView</Value>
+									</Element>
+								</cSceneryRenderBlueprint-eViewType>
+							</Attribute>
+							<Attribute name="Palettised">
+								<eBoolean>
+									<Element>
+										<Value>eFalse</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="Palette0Index">
+								<sInt32>
+									<Element>
+										<Value>-1</Value>
+									</Element>
+								</sInt32>
+							</Attribute>
+							<Attribute name="Palette1Index">
+								<sInt32>
+									<Element>
+										<Value>-1</Value>
+									</Element>
+								</sInt32>
+							</Attribute>
+							<Attribute name="Palette2Index">
+								<sInt32>
+									<Element>
+										<Value>-1</Value>
+									</Element>
+								</sInt32>
+							</Attribute>
 							<Attribute name="HeatHaze">
 								<__Indexed__cSceneryRenderBlueprint-sHeatHaze>
 									<Element>
-										<Value/>
+										<Value />
 									</Element>
 								</__Indexed__cSceneryRenderBlueprint-sHeatHaze>
 							</Attribute>
 							<Attribute name="TexText">
 								<__Indexed__cSceneryRenderBlueprint-sTexText>
 									<Element>
-										<Value/>
+										<Value />
 									</Element>
 								</__Indexed__cSceneryRenderBlueprint-sTexText>
 							</Attribute>
 							<Attribute name="ProjectedLightElement">
 								<__Indexed__cSceneryRenderBlueprint-sProjectedLight>
 									<Element>
-										<Value/>
+										<Value />
 									</Element>
 								</__Indexed__cSceneryRenderBlueprint-sProjectedLight>
 							</Attribute>
@@ -443,7 +388,7 @@
 							<Attribute name="AnimSet">
 								<__Indexed__cAnimSceneryRenderBlueprint-cAutoAnimation>
 									<Element>
-										<Value/>
+										<Value />
 									</Element>
 								</__Indexed__cAnimSceneryRenderBlueprint-cAutoAnimation>
 							</Attribute>
@@ -454,7 +399,7 @@
 			<Attribute name="PosOriComponent">
 				<cPosOriBlueprint>
 					<Element>
-						<Value/>
+						<Value />
 					</Element>
 				</cPosOriBlueprint>
 			</Attribute>
@@ -462,10 +407,17 @@
 				<cEntityContainerBlueprint>
 					<Element>
 						<Value>
+							<Attribute name="TrackTerrainInEditor">
+								<bool>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</bool>
+							</Attribute>
 							<Attribute name="Children">
 								<__Indexed__cEntityContainerBlueprint-sChild>
 									<Element>
-										<Value/>
+										<Value />
 									</Element>
 								</__Indexed__cEntityContainerBlueprint-sChild>
 							</Attribute>

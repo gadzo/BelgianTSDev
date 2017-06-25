@@ -55,14 +55,14 @@
 											<Attribute name="Dutch">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="Polish">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -76,9 +76,94 @@
 											<Attribute name="Other">
 												<__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
 													<Element>
-														<Value/>
+														<Value />
 													</Element>
 												</__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+											</Attribute>
+											<Attribute name="Key">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+										</Value>
+									</Element>
+								</Localisation-cUserLocalisedString>
+							</Attribute>
+							<Attribute name="Description">
+								<Localisation-cUserLocalisedString>
+									<Element>
+										<Value>
+											<Attribute name="English">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="French">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Italian">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="German">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Spanish">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Dutch">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Polish">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Russian">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
+											</Attribute>
+											<Attribute name="Other">
+												<__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+													<Element>
+														<Value />
+													</Element>
+												</__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+											</Attribute>
+											<Attribute name="Key">
+												<cDeltaString>
+													<Element>
+														<Value />
+													</Element>
+												</cDeltaString>
 											</Attribute>
 										</Value>
 									</Element>
@@ -105,7 +190,7 @@
 			<Attribute name="_posori">
 				<cPosOriBlueprint>
 					<Element>
-						<Value></Value>
+						<Value />
 					</Element>
 				</cPosOriBlueprint>
 			</Attribute>
@@ -124,14 +209,14 @@
 															<Attribute name="Provider">
 																<cDeltaString>
 																	<Element>
-																		<Value></Value>
+																		<Value />
 																	</Element>
 																</cDeltaString>
 															</Attribute>
 															<Attribute name="Product">
 																<cDeltaString>
 																	<Element>
-																		<Value></Value>
+																		<Value />
 																	</Element>
 																</cDeltaString>
 															</Attribute>
@@ -142,7 +227,7 @@
 											<Attribute name="BlueprintID">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -161,14 +246,14 @@
 															<Attribute name="Provider">
 																<cDeltaString>
 																	<Element>
-																		<Value></Value>
+																		<Value />
 																	</Element>
 																</cDeltaString>
 															</Attribute>
 															<Attribute name="Product">
 																<cDeltaString>
 																	<Element>
-																		<Value></Value>
+																		<Value />
 																	</Element>
 																</cDeltaString>
 															</Attribute>
@@ -179,7 +264,7 @@
 											<Attribute name="BlueprintID">
 												<cDeltaString>
 													<Element>
-														<Value></Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -190,18 +275,25 @@
 							<Attribute name="GeometryID">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Signals\UK Colour Light\UK_Mod_Heads\Mod_hd_3asp.IGS</Value>
+										<Value>RailNetwork\Signals\BE Colour Light\BE_Mod_Heads\mod_be_hd.igs</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
 							<Attribute name="CollisionGeometryID">
 								<cDeltaString>
 									<Element>
-										<Value></Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>
 							<Attribute name="Pickable">
+								<eBoolean>
+									<Element>
+										<Value>eTrue</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="CastsShadows">
 								<eBoolean>
 									<Element>
 										<Value>eTrue</Value>
@@ -215,80 +307,61 @@
 									</Element>
 								</eShadowType>
 							</Attribute>
+							<Attribute name="ViewType">
+								<cSceneryRenderBlueprint-eViewType>
+									<Element>
+										<Value>ExternalView</Value>
+									</Element>
+								</cSceneryRenderBlueprint-eViewType>
+							</Attribute>
+							<Attribute name="Palettised">
+								<eBoolean>
+									<Element>
+										<Value>eFalse</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="Palette0Index">
+								<sInt32>
+									<Element>
+										<Value>-1</Value>
+									</Element>
+								</sInt32>
+							</Attribute>
+							<Attribute name="Palette1Index">
+								<sInt32>
+									<Element>
+										<Value>-1</Value>
+									</Element>
+								</sInt32>
+							</Attribute>
+							<Attribute name="Palette2Index">
+								<sInt32>
+									<Element>
+										<Value>-1</Value>
+									</Element>
+								</sInt32>
+							</Attribute>
 							<Attribute name="HeatHaze">
 								<__Indexed__cSceneryRenderBlueprint-sHeatHaze>
 									<Element>
-										<Value></Value>
+										<Value />
 									</Element>
 								</__Indexed__cSceneryRenderBlueprint-sHeatHaze>
 							</Attribute>
 							<Attribute name="TexText">
 								<__Indexed__cSceneryRenderBlueprint-sTexText>
 									<Element>
-										<Value></Value>
+										<Value />
 									</Element>
 								</__Indexed__cSceneryRenderBlueprint-sTexText>
 							</Attribute>
-							<Attribute name="ProjectedLight">
-								<cSceneryRenderBlueprint-sProjectedLight>
+							<Attribute name="ProjectedLightElement">
+								<__Indexed__cSceneryRenderBlueprint-sProjectedLight>
 									<Element>
-										<Value>
-											<Attribute name="TextureID">
-												<cDeltaString>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cDeltaString>
-											</Attribute>
-											<Attribute name="Matrix">
-												<cHcRMatrix4x4>
-													<Element>
-														<Value>
-															<Attribute name="Element">
-																<__Indexed__sFloat32>
-																	<Element>
-																		<Value></Value>
-																	</Element>
-																</__Indexed__sFloat32>
-															</Attribute>
-														</Value>
-													</Element>
-												</cHcRMatrix4x4>
-											</Attribute>
-											<Attribute name="FOV">
-												<sFloat32>
-													<Element>
-														<ToolData>
-															<Tool name="tool_cWinToolFloatDatum">
-																<cWinToolFloatDatum>
-																	<Element>
-																		<Value>
-																			<Attribute name="mUnits">
-																				<cFxString8>
-																					<Element>
-																						<Value></Value>
-																					</Element>
-																				</cFxString8>
-																			</Attribute>
-																			<Attribute name="mTypedIn">
-																				<cFxString8>
-																					<Element>
-																						<Value>0.000000</Value>
-																					</Element>
-																				</cFxString8>
-																			</Attribute>
-																		</Value>
-																	</Element>
-																</cWinToolFloatDatum>
-															</Tool>
-														</ToolData>
-														<Value>0.000000</Value>
-													</Element>
-												</sFloat32>
-											</Attribute>
-										</Value>
+										<Value />
 									</Element>
-								</cSceneryRenderBlueprint-sProjectedLight>
+								</__Indexed__cSceneryRenderBlueprint-sProjectedLight>
 							</Attribute>
 							<Attribute name="Instancable">
 								<bool>
@@ -322,7 +395,7 @@
 							<Attribute name="AnimSet">
 								<__Indexed__iAnimObjectRenderBlueprint-cAnimation>
 									<Element>
-										<Value></Value>
+										<Value />
 									</Element>
 								</__Indexed__iAnimObjectRenderBlueprint-cAnimation>
 							</Attribute>
@@ -348,6 +421,20 @@
 									</Element>
 								</eBoolean>
 							</Attribute>
+							<Attribute name="JunctionSignalType">
+								<cSignalComponentBlueprint-eJunctionSignalTypes>
+									<Element>
+										<Value>eJunctionTypeNone</Value>
+									</Element>
+								</cSignalComponentBlueprint-eJunctionSignalTypes>
+							</Attribute>
+							<Attribute name="ControlMode">
+								<cSignalComponentBlueprint-eControlModes>
+									<Element>
+										<Value>eControlModeAutomatic</Value>
+									</Element>
+								</cSignalComponentBlueprint-eControlModes>
+							</Attribute>
 						</Value>
 					</Element>
 				</cSignalComponentBlueprint>
@@ -359,7 +446,7 @@
 							<Attribute name="Name">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Signals\UK Colour Light\UK 3AspSig Head.lua</Value>
+										<Value>RailNetwork\Signals\BE Colour Light\BE 3AspSig Head.lua</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -371,10 +458,17 @@
 				<cEntityContainerBlueprint>
 					<Element>
 						<Value>
+							<Attribute name="TrackTerrainInEditor">
+								<bool>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</bool>
+							</Attribute>
 							<Attribute name="Children">
 								<__Indexed__cEntityContainerBlueprint-sChild>
 									<Element>
-										<Value></Value>
+										<Value />
 									</Element>
 								</__Indexed__cEntityContainerBlueprint-sChild>
 							</Attribute>

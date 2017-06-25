@@ -275,7 +275,7 @@
 							<Attribute name="GeometryID">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Signals\UK Colour Light\UK_Mod_Posts\mod_pt_ctrl</Value>
+										<Value>RailNetwork\Signals\BE Colour Light\BE_Mod_Posts\mod_be_post_1</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -439,7 +439,7 @@
 							<Attribute name="Name">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Signals\UK Colour Light\UK 3AspSig Post.lua</Value>
+										<Value>RailNetwork\Signals\BE Colour Light\BE 3AspSig Post.lua</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -483,14 +483,14 @@
 																						<Attribute name="Provider">
 																							<cDeltaString>
 																								<Element>
-																									<Value>Kuju</Value>
+																									<Value>B_NMBS</Value>
 																								</Element>
 																							</cDeltaString>
 																						</Attribute>
 																						<Attribute name="Product">
 																							<cDeltaString>
 																								<Element>
-																									<Value>RailSimulator</Value>
+																									<Value>TS</Value>
 																								</Element>
 																							</cDeltaString>
 																						</Attribute>
@@ -501,7 +501,7 @@
 																		<Attribute name="BlueprintID">
 																			<cDeltaString>
 																				<Element>
-																					<Value>RailNetwork\Signals\UK Colour Light\UK_Mod_Heads\Mod_hd_3asp.xml</Value>
+																					<Value>RailNetwork\Signals\BE Colour Light\BE_Mod_Heads\Mod_hd_3asp.xml</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -584,7 +584,7 @@
 																						</sFloat32>
 																						<sFloat32>
 																							<Element>
-																								<Value>3.848783</Value>
+																								<Value>3.45</Value>
 																							</Element>
 																						</sFloat32>
 																						<sFloat32>

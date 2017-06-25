@@ -3,8 +3,8 @@
 -- KUJU / Rail Simulator
 --------------------------------------------------------------------------------------
 
---include=Common UK 3AspSig.lua
---include=CommonScripts\Common UK Colour Light Script.lua
+--include=Common BE 3AspSig.lua
+--include=CommonScripts\Common BE Colour Light Script.lua
 --include=..\CommonScripts\New Common Signal Script.lua
  
 --------------------------------------------------------------------------------------

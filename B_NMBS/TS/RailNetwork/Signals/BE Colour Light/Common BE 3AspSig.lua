@@ -1,16 +1,13 @@
--- Set Hp light node names
-HP_LIGHT_NODE_GREEN		= "mod_be_hd_3asp_green"
-HP_LIGHT_NODE_YELLOW	= "mod_be_hd_3asp_orange"
-HP_LIGHT_NODE_RED1		= "mod_be_hd_3asp_red"
-HP_LIGHT_NODE_RED2		= "mod_be_hd_3asp_red"
-HP_LIGHT_NODE_WHITE1	= "mod_be_hd_3asp_white"
-HP_LIGHT_NODE_WHITE2	= "mod_be_hd_3asp_white"
+-- This is a three aspect signal
+gAspect					= 3
 
--- Set Vr light node names
-VR_LIGHT_NODE_GREEN1	= "GR_Mod_Dist_Green_1"
-VR_LIGHT_NODE_GREEN2	= "GR_Mod_Dist_Green_2"
-VR_LIGHT_NODE_YELLOW1	= "GR_Mod_Dist_Orange_1"
-VR_LIGHT_NODE_YELLOW2	= "GR_Mod_Dist_Orange_2"
+-- Set our light node names
+LIGHT_NODE_GREEN		= "mod_be_hd_3asp_green"
+LIGHT_NODE_YELLOW		= "mod_be_hd_3asp_orange"
+LIGHT_NODE_RED			= "mod_be_hd_3asp_red"
+LIGHT_NODE_WHITE		= "mod_be_hd_3asp_white"
+
+
 
 --------------------------------------------------------------------------------------
 -- SET LIGHTS
