@@ -1,0 +1,3667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cSkyInfoBP>
+	<Element>
+		<Value>
+			<Attribute name="Season">
+				<eSEASON>
+					<Element>
+						<Value>SEASON_SUMMER</Value>
+					</Element>
+				</eSEASON>
+			</Attribute>
+			<Attribute name="SkyTimeInfo">
+				<cSkyTimeInfo>
+					<Element>
+						<Value>
+							<Attribute name="InfoSun">
+								<sSkyBodyInfo>
+									<Element>
+										<Value>
+											<Attribute name="RiseTime">
+												<sTimeOfDay>
+													<Element>
+														<Value>
+															<Attribute name="_iHour">
+																<sInt32>
+																	<Element>
+																		<Value>7</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+															<Attribute name="_iMinute">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+															<Attribute name="_iSeconds">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+														</Value>
+													</Element>
+												</sTimeOfDay>
+											</Attribute>
+											<Attribute name="SetTime">
+												<sTimeOfDay>
+													<Element>
+														<Value>
+															<Attribute name="_iHour">
+																<sInt32>
+																	<Element>
+																		<Value>20</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+															<Attribute name="_iMinute">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+															<Attribute name="_iSeconds">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+														</Value>
+													</Element>
+												</sTimeOfDay>
+											</Attribute>
+											<Attribute name="AzimuthAngle">
+												<sFloat32>
+													<Element>
+														<Value>150</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sSkyBodyInfo>
+							</Attribute>
+							<Attribute name="InfoMoon">
+								<sSkyBodyInfo>
+									<Element>
+										<Value>
+											<Attribute name="RiseTime">
+												<sTimeOfDay>
+													<Element>
+														<Value>
+															<Attribute name="_iHour">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+															<Attribute name="_iMinute">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+															<Attribute name="_iSeconds">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+														</Value>
+													</Element>
+												</sTimeOfDay>
+											</Attribute>
+											<Attribute name="SetTime">
+												<sTimeOfDay>
+													<Element>
+														<Value>
+															<Attribute name="_iHour">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+															<Attribute name="_iMinute">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+															<Attribute name="_iSeconds">
+																<sInt32>
+																	<Element>
+																		<Value>0</Value>
+																	</Element>
+																</sInt32>
+															</Attribute>
+														</Value>
+													</Element>
+												</sTimeOfDay>
+											</Attribute>
+											<Attribute name="AzimuthAngle">
+												<sFloat32>
+													<Element>
+														<Value>30</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sSkyBodyInfo>
+							</Attribute>
+						</Value>
+					</Element>
+				</cSkyTimeInfo>
+			</Attribute>
+			<Attribute name="StartingTime">
+				<sTimeOfDay>
+					<Element>
+						<Value>
+							<Attribute name="_iHour">
+								<sInt32>
+									<Element>
+										<Value>6</Value>
+									</Element>
+								</sInt32>
+							</Attribute>
+							<Attribute name="_iMinute">
+								<sInt32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sInt32>
+							</Attribute>
+							<Attribute name="_iSeconds">
+								<sInt32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sInt32>
+							</Attribute>
+						</Value>
+					</Element>
+				</sTimeOfDay>
+			</Attribute>
+			<Attribute name="TimeScaler">
+				<sInt32>
+					<Element>
+						<Value>1</Value>
+					</Element>
+				</sInt32>
+			</Attribute>
+			<Attribute name="skyDomeMesh">
+				<cDeltaString>
+					<Element>
+						<Value>TimeOfDay\Sky\skydome.igs</Value>
+					</Element>
+				</cDeltaString>
+			</Attribute>
+			<Attribute name="skyDomeTex">
+				<cDeltaString>
+					<Element>
+						<Value>TimeOfDay\Sky\skydomeTexture.ace</Value>
+					</Element>
+				</cDeltaString>
+			</Attribute>
+			<Attribute name="SunTexture">
+				<cDeltaString>
+					<Element>
+						<Value />
+					</Element>
+				</cDeltaString>
+			</Attribute>
+			<Attribute name="MoonTexture">
+				<cDeltaString>
+					<Element>
+						<Value />
+					</Element>
+				</cDeltaString>
+			</Attribute>
+			<Attribute name="NumberOfMoonPhases">
+				<sUInt32>
+					<Element>
+						<Value>1</Value>
+					</Element>
+				</sUInt32>
+			</Attribute>
+			<Attribute name="SunRadius">
+				<sFloat32>
+					<Element>
+						<Value>10</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="MoonRadius">
+				<sFloat32>
+					<Element>
+						<Value>1</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="SunScaleVal">
+				<sFloat32>
+					<Element>
+						<Value>1</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="MoonScaleVal">
+				<sFloat32>
+					<Element>
+						<Value>1</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="BreakOfDawnTOD">
+				<cTODColour>
+					<Element>
+						<Value>
+							<Attribute name="Time">
+								<sTimeOfDay>
+									<Element>
+										<Value>
+											<Attribute name="_iHour">
+												<sInt32>
+													<Element>
+														<Value>5</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iMinute">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iSeconds">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sTimeOfDay>
+							</Attribute>
+							<Attribute name="UpperSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="LowerSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SkyGradientHeight">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunGlareColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SunGlareAmount">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="CloudColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="MoonLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="BackFillColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="UplightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="AmbientColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cTODColour>
+			</Attribute>
+			<Attribute name="DawnTOD">
+				<cTODColour>
+					<Element>
+						<Value>
+							<Attribute name="Time">
+								<sTimeOfDay>
+									<Element>
+										<Value>
+											<Attribute name="_iHour">
+												<sInt32>
+													<Element>
+														<Value>7</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iMinute">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iSeconds">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sTimeOfDay>
+							</Attribute>
+							<Attribute name="UpperSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.3983403</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.7219917</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="LowerSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.1124482</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.4896266</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.9253112</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SkyGradientHeight">
+								<sFloat32>
+									<Element>
+										<Value>20</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunGlareColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SunGlareAmount">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.7431535</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="CloudColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.9958506</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="MoonLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="BackFillColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="UplightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="AmbientColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>1000</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>10000</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cTODColour>
+			</Attribute>
+			<Attribute name="MorningTOD">
+				<cTODColour>
+					<Element>
+						<Value>
+							<Attribute name="Time">
+								<sTimeOfDay>
+									<Element>
+										<Value>
+											<Attribute name="_iHour">
+												<sInt32>
+													<Element>
+														<Value>9</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iMinute">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iSeconds">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sTimeOfDay>
+							</Attribute>
+							<Attribute name="UpperSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.406639</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.4771784</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.6431535</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="LowerSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.5062241</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.2746888</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.1742739</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SkyGradientHeight">
+								<sFloat32>
+									<Element>
+										<Value>200</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunGlareColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.9377593</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.6390042</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.5435685</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SunGlareAmount">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.9626556</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.7427386</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>2</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="CloudColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="MoonLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="BackFillColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="UplightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="AmbientColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cTODColour>
+			</Attribute>
+			<Attribute name="NoonTOD">
+				<cTODColour>
+					<Element>
+						<Value>
+							<Attribute name="Time">
+								<sTimeOfDay>
+									<Element>
+										<Value>
+											<Attribute name="_iHour">
+												<sInt32>
+													<Element>
+														<Value>12</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iMinute">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iSeconds">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sTimeOfDay>
+							</Attribute>
+							<Attribute name="UpperSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.307054</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.7095436</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="LowerSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.3112033</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SkyGradientHeight">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunGlareColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.8298755</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SunGlareAmount">
+								<sFloat32>
+									<Element>
+										<Value>200</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>3</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>2</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>2</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>3</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="CloudColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.9713693</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0.1991702</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="MoonLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="BackFillColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="UplightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="AmbientColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.02489627</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.06224069</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.120332</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.966805</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>500</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>20000</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cTODColour>
+			</Attribute>
+			<Attribute name="EarlyEveningTOD">
+				<cTODColour>
+					<Element>
+						<Value>
+							<Attribute name="Time">
+								<sTimeOfDay>
+									<Element>
+										<Value>
+											<Attribute name="_iHour">
+												<sInt32>
+													<Element>
+														<Value>16</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iMinute">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iSeconds">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sTimeOfDay>
+							</Attribute>
+							<Attribute name="UpperSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.1659752</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.4481328</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.8091286</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="LowerSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.3319502</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.8838174</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SkyGradientHeight">
+								<sFloat32>
+									<Element>
+										<Value>100</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunGlareColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SunGlareAmount">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.9211618</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="CloudColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="MoonLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="BackFillColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="UplightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="AmbientColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.02489627</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.03319502</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.6999999</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.7634855</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>2000</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>10000</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cTODColour>
+			</Attribute>
+			<Attribute name="DuskTOD">
+				<cTODColour>
+					<Element>
+						<Value>
+							<Attribute name="Time">
+								<sTimeOfDay>
+									<Element>
+										<Value>
+											<Attribute name="_iHour">
+												<sInt32>
+													<Element>
+														<Value>20</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iMinute">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iSeconds">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sTimeOfDay>
+							</Attribute>
+							<Attribute name="UpperSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.2323651</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.2950208</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="LowerSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.1286307</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.1244813</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.739834</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SkyGradientHeight">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunGlareColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SunGlareAmount">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.1452282</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.1618257</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.4522822</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="CloudColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="MoonLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="BackFillColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="UplightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="AmbientColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.1161826</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.1286307</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.2614108</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>200</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>10000</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cTODColour>
+			</Attribute>
+			<Attribute name="NightTOD">
+				<cTODColour>
+					<Element>
+						<Value>
+							<Attribute name="Time">
+								<sTimeOfDay>
+									<Element>
+										<Value>
+											<Attribute name="_iHour">
+												<sInt32>
+													<Element>
+														<Value>23</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iMinute">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iSeconds">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sTimeOfDay>
+							</Attribute>
+							<Attribute name="UpperSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.08713693</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.09543569</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.1543569</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="LowerSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.0580913</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.07551868</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.1120332</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SkyGradientHeight">
+								<sFloat32>
+									<Element>
+										<Value>10</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunGlareColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SunGlareAmount">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="CloudColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="MoonLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.02074689</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.03319502</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.04979253</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="BackFillColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="UplightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="AmbientColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.02074689</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.08713693</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.1742739</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>100</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>10000</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cTODColour>
+			</Attribute>
+			<Attribute name="MidnightTOD">
+				<cTODColour>
+					<Element>
+						<Value>
+							<Attribute name="Time">
+								<sTimeOfDay>
+									<Element>
+										<Value>
+											<Attribute name="_iHour">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iMinute">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+											<Attribute name="_iSeconds">
+												<sInt32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sInt32>
+											</Attribute>
+										</Value>
+									</Element>
+								</sTimeOfDay>
+							</Attribute>
+							<Attribute name="UpperSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0.2431534</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="LowerSkyColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SkyGradientHeight">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunGlareColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="SunGlareAmount">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="SunLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="CloudColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="MoonLightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.04979253</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.04149378</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.04979253</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="BackFillColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="UplightColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="AmbientColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0.1078838</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0.1037344</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0.1327801</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>1</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0.120332</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>10</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>900</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cTODColour>
+			</Attribute>
+		</Value>
+	</Element>
+</cSkyInfoBP>

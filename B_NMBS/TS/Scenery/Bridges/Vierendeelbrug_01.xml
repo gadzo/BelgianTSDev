@@ -268,7 +268,7 @@
 							<Attribute name="GeometryID">
 								<cDeltaString>
 									<Element>
-										<Value>Bridges\Vierendeelbrug_01.igs</Value>
+										<Value>Scenery\Bridges\Vierendeelbrug_01.igs</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>

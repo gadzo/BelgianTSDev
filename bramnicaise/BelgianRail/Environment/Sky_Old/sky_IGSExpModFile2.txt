@@ -1,0 +1,35 @@
+    # File: <igs_export_file_name>_IGSExpModFile2.txt or IGSExpModFile2.txt
+    # Model specific modification file for Blender IGS exporter
+    #
+    #  Comments:
+    #    Each line starting with a # contains comments and will be ignored at
+    #    execution time.
+    #
+    # ------------------------------------------------------------------------------
+    [Materials:AlphaTestMode]
+    # Replace current AlphaTestMode value of a material, regardless what it is currently.
+#    stars=1
+
+    [Materials:Ambient]
+    # Replace Ambient 1.0 default value of the material.
+    storm=1.0
+    thick=1.0
+    wispy=1.0
+    clouds_cloudband_1=1.0
+    clouds_cloudband_3=1.0
+    skydome=1.0
+
+
+    [Materials:ZBufferMode]
+    storm=3
+    thick=3
+    wispy=3
+
+    [Miscellaneous]
+    MainObject=1_0000_skyhack
+    TargetTexturesDirectory=Textures
+    Hierarchy=unchanged
+
+    [UVArguments]
+    # For the materials below, use UVArguments for the first render stage
+    # 6 values separated by comma
