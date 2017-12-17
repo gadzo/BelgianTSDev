@@ -1,0 +1,20 @@
+# File: <igs_export_file_name>_IGSExpModFile2.txt or IGSExpModFile2.txt
+# Model specific modification file for Blender IGS exporter
+#
+#  Comments:
+#    Each line starting with a # contains comments and will be ignored at 
+#    execution time.
+#
+# ------------------------------------------------------------------------------
+
+[Miscellaneous]
+#TargetTexturesDirectory=Textures
+MainObject=1_1000_sleeper_middle
+Hierarchy=unchanged
+#CustomKeyWords=1_1000_rails, 1_1000_sleepers, 1_1000_spline
+#CenterMainObject=0,0,N
+
+[UVArguments]
+# For the materials below, use UVArguments for the first render stage
+# 6 values separated by comma
+#Material=0.0, `0.0,0.0, 0.0, 0.0, 0.0

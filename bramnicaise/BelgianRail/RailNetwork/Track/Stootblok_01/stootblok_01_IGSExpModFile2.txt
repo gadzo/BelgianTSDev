@@ -8,7 +8,7 @@
 # ------------------------------------------------------------------------------
 
 [Miscellaneous]
-#TargetTexturesDirectory=Textures
+TargetTexturesDirectory=..\Textures
 MainObject=1_1000_Buffer
 Hierarchy=unchanged
 #CustomKeyWords=1_1000_rails, 1_1000_sleepers, 1_1000_spline

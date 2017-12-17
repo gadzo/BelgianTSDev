@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cWeatherPatternBP>
+	<Element>
+		<Value>
+			<Attribute name="DisplayName">
+				<Localisation-cUserLocalisedString>
+					<Element>
+						<Value>
+							<Attribute name="English">
+								<cDeltaString>
+									<Element>
+										<Value>WeatherDefault</Value>
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="French">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="Italian">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="German">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="Spanish">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="Dutch">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="Polish">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="Russian">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+							<Attribute name="Other">
+								<__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+									<Element>
+										<Value />
+									</Element>
+								</__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+							</Attribute>
+							<Attribute name="Key">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+						</Value>
+					</Element>
+				</Localisation-cUserLocalisedString>
+			</Attribute>
+			<Attribute name="WeatherTypeClear">
+				<cWeatherType>
+					<Element>
+						<Value>
+							<Attribute name="WindDirection">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="WindSpeed">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="PrecipitationType">
+								<ePrecipitationType>
+									<Element>
+										<Value>ePrecipitationRain</Value>
+									</Element>
+								</ePrecipitationType>
+							</Attribute>
+							<Attribute name="PrecipitationDensity">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="PrecipitationSpeed">
+								<sFloat32>
+									<Element>
+										<Value>9.8</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogOverride">
+								<eBoolean>
+									<Element>
+										<Value>eFalse</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="BlendInTime">
+								<sFloat32>
+									<Element>
+										<Value>15</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="CloudType">
+								<eCloudType>
+									<Element>
+										<Value>eCloudClear</Value>
+									</Element>
+								</eCloudType>
+							</Attribute>
+						</Value>
+					</Element>
+				</cWeatherType>
+			</Attribute>
+			<Attribute name="WeatherTypeOvercast">
+				<cWeatherType>
+					<Element>
+						<Value>
+							<Attribute name="WindDirection">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="WindSpeed">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="PrecipitationType">
+								<ePrecipitationType>
+									<Element>
+										<Value>ePrecipitationRain</Value>
+									</Element>
+								</ePrecipitationType>
+							</Attribute>
+							<Attribute name="PrecipitationDensity">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="PrecipitationSpeed">
+								<sFloat32>
+									<Element>
+										<Value>9.8</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogOverride">
+								<eBoolean>
+									<Element>
+										<Value>eFalse</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="BlendInTime">
+								<sFloat32>
+									<Element>
+										<Value>15</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="CloudType">
+								<eCloudType>
+									<Element>
+										<Value>eCloudClear</Value>
+									</Element>
+								</eCloudType>
+							</Attribute>
+						</Value>
+					</Element>
+				</cWeatherType>
+			</Attribute>
+			<Attribute name="WeatherTypeRain">
+				<cWeatherType>
+					<Element>
+						<Value>
+							<Attribute name="WindDirection">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="WindSpeed">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="PrecipitationType">
+								<ePrecipitationType>
+									<Element>
+										<Value>ePrecipitationRain</Value>
+									</Element>
+								</ePrecipitationType>
+							</Attribute>
+							<Attribute name="PrecipitationDensity">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="PrecipitationSpeed">
+								<sFloat32>
+									<Element>
+										<Value>9.8</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogOverride">
+								<eBoolean>
+									<Element>
+										<Value>eFalse</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="BlendInTime">
+								<sFloat32>
+									<Element>
+										<Value>15</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="CloudType">
+								<eCloudType>
+									<Element>
+										<Value>eCloudClear</Value>
+									</Element>
+								</eCloudType>
+							</Attribute>
+						</Value>
+					</Element>
+				</cWeatherType>
+			</Attribute>
+			<Attribute name="WeatherTypeStorm">
+				<cWeatherType>
+					<Element>
+						<Value>
+							<Attribute name="WindDirection">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="WindSpeed">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="PrecipitationType">
+								<ePrecipitationType>
+									<Element>
+										<Value>ePrecipitationRain</Value>
+									</Element>
+								</ePrecipitationType>
+							</Attribute>
+							<Attribute name="PrecipitationDensity">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="PrecipitationSpeed">
+								<sFloat32>
+									<Element>
+										<Value>9.8</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogOverride">
+								<eBoolean>
+									<Element>
+										<Value>eFalse</Value>
+									</Element>
+								</eBoolean>
+							</Attribute>
+							<Attribute name="FogColour">
+								<cHcColour>
+									<Element>
+										<Value>
+											<Attribute name="Red">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Green">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Blue">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Alpha">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cHcColour>
+							</Attribute>
+							<Attribute name="FogStart">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="FogEnd">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="BlendInTime">
+								<sFloat32>
+									<Element>
+										<Value>15</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="CloudType">
+								<eCloudType>
+									<Element>
+										<Value>eCloudClear</Value>
+									</Element>
+								</eCloudType>
+							</Attribute>
+						</Value>
+					</Element>
+				</cWeatherType>
+			</Attribute>
+			<Attribute name="PrecipitationRain">
+				<cPrecipitationDescription>
+					<Element>
+						<Value>
+							<Attribute name="BottomLeftViewSpaceOffset">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="TopRightViewSpaceOffset">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="BottomLeftUV">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="TopRightUV">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="AlphaTop">
+								<sUInt32>
+									<Element>
+										<Value>255</Value>
+									</Element>
+								</sUInt32>
+							</Attribute>
+							<Attribute name="AlphaBottom">
+								<sUInt32>
+									<Element>
+										<Value>255</Value>
+									</Element>
+								</sUInt32>
+							</Attribute>
+							<Attribute name="ParticleStreakMultiplier">
+								<sFloat32>
+									<Element>
+										<Value>1</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="TextureID">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+						</Value>
+					</Element>
+				</cPrecipitationDescription>
+			</Attribute>
+			<Attribute name="PrecipitationSleet">
+				<cPrecipitationDescription>
+					<Element>
+						<Value>
+							<Attribute name="BottomLeftViewSpaceOffset">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="TopRightViewSpaceOffset">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="BottomLeftUV">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="TopRightUV">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="AlphaTop">
+								<sUInt32>
+									<Element>
+										<Value>255</Value>
+									</Element>
+								</sUInt32>
+							</Attribute>
+							<Attribute name="AlphaBottom">
+								<sUInt32>
+									<Element>
+										<Value>255</Value>
+									</Element>
+								</sUInt32>
+							</Attribute>
+							<Attribute name="ParticleStreakMultiplier">
+								<sFloat32>
+									<Element>
+										<Value>1</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="TextureID">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+						</Value>
+					</Element>
+				</cPrecipitationDescription>
+			</Attribute>
+			<Attribute name="PrecipitationHail">
+				<cPrecipitationDescription>
+					<Element>
+						<Value>
+							<Attribute name="BottomLeftViewSpaceOffset">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="TopRightViewSpaceOffset">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="BottomLeftUV">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="TopRightUV">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="AlphaTop">
+								<sUInt32>
+									<Element>
+										<Value>255</Value>
+									</Element>
+								</sUInt32>
+							</Attribute>
+							<Attribute name="AlphaBottom">
+								<sUInt32>
+									<Element>
+										<Value>255</Value>
+									</Element>
+								</sUInt32>
+							</Attribute>
+							<Attribute name="ParticleStreakMultiplier">
+								<sFloat32>
+									<Element>
+										<Value>1</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="TextureID">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+						</Value>
+					</Element>
+				</cPrecipitationDescription>
+			</Attribute>
+			<Attribute name="PrecipitationSnow">
+				<cPrecipitationDescription>
+					<Element>
+						<Value>
+							<Attribute name="BottomLeftViewSpaceOffset">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="TopRightViewSpaceOffset">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="BottomLeftUV">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="TopRightUV">
+								<cRVector2>
+									<Element>
+										<Value>
+											<Attribute name="X">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+											<Attribute name="Y">
+												<sFloat32>
+													<Element>
+														<Value>0</Value>
+													</Element>
+												</sFloat32>
+											</Attribute>
+										</Value>
+									</Element>
+								</cRVector2>
+							</Attribute>
+							<Attribute name="AlphaTop">
+								<sUInt32>
+									<Element>
+										<Value>255</Value>
+									</Element>
+								</sUInt32>
+							</Attribute>
+							<Attribute name="AlphaBottom">
+								<sUInt32>
+									<Element>
+										<Value>255</Value>
+									</Element>
+								</sUInt32>
+							</Attribute>
+							<Attribute name="ParticleStreakMultiplier">
+								<sFloat32>
+									<Element>
+										<Value>1</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="TextureID">
+								<cDeltaString>
+									<Element>
+										<Value />
+									</Element>
+								</cDeltaString>
+							</Attribute>
+						</Value>
+					</Element>
+				</cPrecipitationDescription>
+			</Attribute>
+			<Attribute name="CloudClear">
+				<cCloudDescription>
+					<Element>
+						<Value>
+							<Attribute name="WispyLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>1</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="ThickCloudLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="StormLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="ColourDarkeningIntensity">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cCloudDescription>
+			</Attribute>
+			<Attribute name="CloudOvercast">
+				<cCloudDescription>
+					<Element>
+						<Value>
+							<Attribute name="WispyLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>1</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="ThickCloudLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="StormLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="ColourDarkeningIntensity">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cCloudDescription>
+			</Attribute>
+			<Attribute name="CloudRain">
+				<cCloudDescription>
+					<Element>
+						<Value>
+							<Attribute name="WispyLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>1</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="ThickCloudLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="StormLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="ColourDarkeningIntensity">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cCloudDescription>
+			</Attribute>
+			<Attribute name="CloudStorm">
+				<cCloudDescription>
+					<Element>
+						<Value>
+							<Attribute name="WispyLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>1</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="ThickCloudLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="StormLayerAlpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="ColourDarkeningIntensity">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cCloudDescription>
+			</Attribute>
+			<Attribute name="WeatherEvent">
+				<__Indexed__cWeatherEvent>
+					<Element>
+						<Value>
+							<cWeatherEvent>
+								<Element>
+									<Value>
+										<Attribute name="Type">
+											<eWeatherType>
+												<Element>
+													<Value>eWeatherTypeClear</Value>
+												</Element>
+											</eWeatherType>
+										</Attribute>
+										<Attribute name="Time">
+											<sFloat32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+									</Value>
+								</Element>
+							</cWeatherEvent>
+						</Value>
+					</Element>
+				</__Indexed__cWeatherEvent>
+			</Attribute>
+			<Attribute name="Name">
+				<cDeltaString>
+					<Element>
+						<Value />
+					</Element>
+				</cDeltaString>
+			</Attribute>
+			<Attribute name="AudioControl">
+				<cDeltaString>
+					<Element>
+						<Value />
+					</Element>
+				</cDeltaString>
+			</Attribute>
+		</Value>
+	</Element>
+</cWeatherPatternBP>

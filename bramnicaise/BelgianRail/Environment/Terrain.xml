@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cTerrainTextureBluePrint>
+	<Element>
+		<Value>
+			<Attribute name="MixTex">
+				<__Indexed__cMixTexDescriptor>
+					<Element>
+						<Value>
+							<cMixTexDescriptor>
+								<Element>
+									<Value>
+										<Attribute name="BaseTextureName">
+											<cDeltaString>
+												<Element>
+													<Value />
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="BaseSpringTextureName">
+											<cDeltaString>
+												<Element>
+													<Value />
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="BaseSummerTextureName">
+											<cDeltaString>
+												<Element>
+													<Value />
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="BaseAutumnTextureName">
+											<cDeltaString>
+												<Element>
+													<Value />
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="BaseWinterTextureName">
+											<cDeltaString>
+												<Element>
+													<Value />
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="DisplayName">
+											<cDeltaString>
+												<Element>
+													<Value />
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="LocalisedDisplayName">
+											<Localisation-cUserLocalisedString>
+												<Element>
+													<Value>
+														<Attribute name="English">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="French">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Italian">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="German">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Spanish">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Dutch">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Polish">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Russian">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+														<Attribute name="Other">
+															<__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+																<Element>
+																	<Value />
+																</Element>
+															</__Indexed__Localisation-cUserLocalisedString-cOtherStringLangPair>
+														</Attribute>
+														<Attribute name="Key">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</Localisation-cUserLocalisedString>
+										</Attribute>
+										<Attribute name="Wang">
+											<eBoolean>
+												<Element>
+													<Value>eFalse</Value>
+												</Element>
+											</eBoolean>
+										</Attribute>
+										<Attribute name="FloraIndex">
+											<sUInt32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sUInt32>
+										</Attribute>
+										<Attribute name="FloraDensity">
+											<sFloat32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="Category">
+											<cMixTexDescriptor-eBrowseableCategory>
+												<Element>
+													<Value>eMisc</Value>
+												</Element>
+											</cMixTexDescriptor-eBrowseableCategory>
+										</Attribute>
+									</Value>
+								</Element>
+							</cMixTexDescriptor>
+						</Value>
+					</Element>
+				</__Indexed__cMixTexDescriptor>
+			</Attribute>
+			<Attribute name="DistantTerrainColour">
+				<cHcColour>
+					<Element>
+						<Value>
+							<Attribute name="Red">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="Green">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="Blue">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="Alpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cHcColour>
+			</Attribute>
+			<Attribute name="WinterDistantTerrainColour">
+				<cHcColour>
+					<Element>
+						<Value>
+							<Attribute name="Red">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="Green">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="Blue">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+							<Attribute name="Alpha">
+								<sFloat32>
+									<Element>
+										<Value>0</Value>
+									</Element>
+								</sFloat32>
+							</Attribute>
+						</Value>
+					</Element>
+				</cHcColour>
+			</Attribute>
+			<Attribute name="LowGroundTextureIndex">
+				<sUInt32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sUInt32>
+			</Attribute>
+			<Attribute name="MidGroundTextureIndex">
+				<sUInt32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sUInt32>
+			</Attribute>
+			<Attribute name="HighGroundTextureIndex">
+				<sUInt32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sUInt32>
+			</Attribute>
+			<Attribute name="RockTextureIndex">
+				<sUInt32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sUInt32>
+			</Attribute>
+			<Attribute name="LowToMidHeightPoint">
+				<sFloat32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="LowToMidThreshold">
+				<sFloat32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="MidToHighHeightPoint">
+				<sFloat32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="MidToHighThreshold">
+				<sFloat32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="RockGradient">
+				<sFloat32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="RockThreshold">
+				<sFloat32>
+					<Element>
+						<Value>0</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="ShadowTextureScaleFactor">
+				<sFloat32>
+					<Element>
+						<Value>0.0005</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="ProceduralFloraTextureID">
+				<cDeltaString>
+					<Element>
+						<Value />
+					</Element>
+				</cDeltaString>
+			</Attribute>
+		</Value>
+	</Element>
+</cTerrainTextureBluePrint>
