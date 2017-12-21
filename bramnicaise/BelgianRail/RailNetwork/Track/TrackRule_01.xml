@@ -342,14 +342,14 @@
 											<Attribute name="Provider">
 												<cDeltaString>
 													<Element>
-														<Value>bramnicaise</Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="Product">
 												<cDeltaString>
 													<Element>
-														<Value>BelgianRail</Value>
+														<Value />
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -360,7 +360,7 @@
 							<Attribute name="BlueprintID">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Track\Loft_Catenary_01.xml</Value>
+										<Value />
 									</Element>
 								</cDeltaString>
 							</Attribute>

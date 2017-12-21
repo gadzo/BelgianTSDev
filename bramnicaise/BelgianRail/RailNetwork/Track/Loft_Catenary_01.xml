@@ -310,7 +310,7 @@
 							<Attribute name="SpecialCurve">
 								<kCurve-eCurveType>
 									<Element>
-										<Value>eInvalid</Value>
+										<Value>eCatenary</Value>
 									</Element>
 								</kCurve-eCurveType>
 							</Attribute>

@@ -5,7 +5,7 @@
 			<Attribute name="Name">
 				<cDeltaString>
 					<Element>
-						<Value />
+						<Value>BELR_GantryToolNew</Value>
 					</Element>
 				</cDeltaString>
 			</Attribute>
@@ -20,7 +20,7 @@
 											<Attribute name="English">
 												<cDeltaString>
 													<Element>
-														<Value />
+														<Value>BELR_GantryToolNew</Value>
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -172,7 +172,7 @@
 							<Attribute name="Category">
 								<iBrowseableBlueprint-eBrowseableCategory>
 									<Element>
-										<Value>eUncategorised</Value>
+										<Value>eTrackInfrastructure</Value>
 									</Element>
 								</iBrowseableBlueprint-eBrowseableCategory>
 							</Attribute>
@@ -197,21 +197,21 @@
 			<Attribute name="DistanceBetweenGantriesMax">
 				<sFloat32>
 					<Element>
-						<Value>70</Value>
+						<Value>30</Value>
 					</Element>
 				</sFloat32>
 			</Attribute>
 			<Attribute name="StaggerOnStraight">
 				<sFloat32>
 					<Element>
-						<Value>0.23</Value>
+						<Value>0.01</Value>
 					</Element>
 				</sFloat32>
 			</Attribute>
 			<Attribute name="MaxStaggerOnCurve">
 				<sFloat32>
 					<Element>
-						<Value>0.39</Value>
+						<Value>0.01</Value>
 					</Element>
 				</sFloat32>
 			</Attribute>
@@ -226,14 +226,14 @@
 											<Attribute name="Provider">
 												<cDeltaString>
 													<Element>
-														<Value />
+														<Value>bramnicaise</Value>
 													</Element>
 												</cDeltaString>
 											</Attribute>
 											<Attribute name="Product">
 												<cDeltaString>
 													<Element>
-														<Value />
+														<Value>BelgianRail</Value>
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -244,7 +244,7 @@
 							<Attribute name="BlueprintID">
 								<cDeltaString>
 									<Element>
-										<Value />
+										<Value>RailNetwork\Gantry\Gantry_01.xml</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -270,14 +270,14 @@
 																		<Attribute name="Provider">
 																			<cDeltaString>
 																				<Element>
-																					<Value />
+																					<Value>bramnicaise</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
 																		<Attribute name="Product">
 																			<cDeltaString>
 																				<Element>
-																					<Value />
+																					<Value>BelgianRail</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -288,7 +288,7 @@
 														<Attribute name="BlueprintID">
 															<cDeltaString>
 																<Element>
-																	<Value />
+																	<Value>RailNetwork\Gantry\Gantry_01.xml</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -306,14 +306,14 @@
 										<Attribute name="TrackSpanRange">
 											<sFloat32>
 												<Element>
-													<Value>5</Value>
+													<Value>1</Value>
 												</Element>
 											</sFloat32>
 										</Attribute>
 										<Attribute name="AnchorPoint">
 											<cTrackGantrySetBlueprint2-cTrackGantryBlueprint2-eAnchorPoint>
 												<Element>
-													<Value>ANCHOR_TRACK_LEFT</Value>
+													<Value>ANCHOR_TRACK_RIGHT</Value>
 												</Element>
 											</cTrackGantrySetBlueprint2-cTrackGantryBlueprint2-eAnchorPoint>
 										</Attribute>
