@@ -74,7 +74,7 @@
 							<Attribute name="BlueprintID">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Track\TrackSection_wood.xml</Value>
+										<Value>RailNetwork\Track\TrackSection_concrete.xml</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>

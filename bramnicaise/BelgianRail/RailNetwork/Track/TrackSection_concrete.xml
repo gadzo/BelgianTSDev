@@ -261,7 +261,7 @@
 							<Attribute name="ProfileMatchesPopulation">
 								<eBoolean>
 									<Element>
-										<Value>eTrue</Value>
+										<Value>eFalse</Value>
 									</Element>
 								</eBoolean>
 							</Attribute>
@@ -289,14 +289,14 @@
 							<Attribute name="StartBufferOffset">
 								<sFloat32>
 									<Element>
-										<Value>500</Value>
+										<Value>0</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
 							<Attribute name="EndBufferOffset">
 								<sFloat32>
 									<Element>
-										<Value>500</Value>
+										<Value>0</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
