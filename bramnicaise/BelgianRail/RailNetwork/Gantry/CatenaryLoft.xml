@@ -101,7 +101,7 @@
 							<Attribute name="CrossSectionID">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Gantry\Loft\GantryLoftNew</Value>
+										<Value>RailNetwork\Gantry\Loft\GantryLoftNew.igs</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>

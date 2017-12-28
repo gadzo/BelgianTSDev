@@ -172,7 +172,7 @@
 							<Attribute name="Category">
 								<iBrowseableBlueprint-eBrowseableCategory>
 									<Element>
-										<Value>eUncategorised</Value>
+										<Value>eTrackInfrastructure</Value>
 									</Element>
 								</iBrowseableBlueprint-eBrowseableCategory>
 							</Attribute>
@@ -528,7 +528,7 @@
 																						</sFloat32>
 																						<sFloat32>
 																							<Element>
-																								<Value>0</Value>
+																								<Value>-2.153137</Value>
 																							</Element>
 																						</sFloat32>
 																						<sFloat32>
@@ -679,7 +679,7 @@
 														<Attribute name="AnchorType">
 															<cGantryComponentBlueprint-eNodeType>
 																<Element>
-																	<Value>CatenaryWireStopPoint</Value>
+																	<Value>ContactWireThroughPoint</Value>
 																</Element>
 															</cGantryComponentBlueprint-eNodeType>
 														</Attribute>
@@ -726,7 +726,7 @@
 																		<Attribute name="BlueprintID">
 																			<cDeltaString>
 																				<Element>
-																					<Value>RailNetwork\Gantry\CatenaryLoft.xml</Value>
+																					<Value>RailNetwork\Gantry\CatenaryLoftContact.xml</Value>
 																				</Element>
 																			</cDeltaString>
 																		</Attribute>
@@ -807,7 +807,7 @@
 														<Attribute name="AnchorType">
 															<cGantryComponentBlueprint-eNodeType>
 																<Element>
-																	<Value>ReturnWireStopPoint</Value>
+																	<Value>ReturnWireThroughPoint</Value>
 																</Element>
 															</cGantryComponentBlueprint-eNodeType>
 														</Attribute>

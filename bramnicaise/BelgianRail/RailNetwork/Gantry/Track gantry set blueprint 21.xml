@@ -190,28 +190,28 @@
 			<Attribute name="DistanceBetweenGantriesMin">
 				<sFloat32>
 					<Element>
-						<Value>20</Value>
+						<Value>23</Value>
 					</Element>
 				</sFloat32>
 			</Attribute>
 			<Attribute name="DistanceBetweenGantriesMax">
 				<sFloat32>
 					<Element>
-						<Value>30</Value>
+						<Value>26</Value>
 					</Element>
 				</sFloat32>
 			</Attribute>
 			<Attribute name="StaggerOnStraight">
 				<sFloat32>
 					<Element>
-						<Value>0.01</Value>
+						<Value>0.15</Value>
 					</Element>
 				</sFloat32>
 			</Attribute>
 			<Attribute name="MaxStaggerOnCurve">
 				<sFloat32>
 					<Element>
-						<Value>0.01</Value>
+						<Value>0.1</Value>
 					</Element>
 				</sFloat32>
 			</Attribute>
@@ -313,7 +313,71 @@
 										<Attribute name="AnchorPoint">
 											<cTrackGantrySetBlueprint2-cTrackGantryBlueprint2-eAnchorPoint>
 												<Element>
-													<Value>ANCHOR_TRACK_RIGHT</Value>
+													<Value>ANCHOR_TRACK_SPAN</Value>
+												</Element>
+											</cTrackGantrySetBlueprint2-cTrackGantryBlueprint2-eAnchorPoint>
+										</Attribute>
+									</Value>
+								</Element>
+							</cTrackGantrySetBlueprint2-cTrackGantryBlueprint2>
+							<cTrackGantrySetBlueprint2-cTrackGantryBlueprint2>
+								<Element>
+									<Value>
+										<Attribute name="BlueprintID">
+											<iBlueprintLibrary-cAbsoluteBlueprintID>
+												<Element>
+													<Value>
+														<Attribute name="BlueprintSetID">
+															<iBlueprintLibrary-cBlueprintSetID>
+																<Element>
+																	<Value>
+																		<Attribute name="Provider">
+																			<cDeltaString>
+																				<Element>
+																					<Value>bramnicaise</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																		<Attribute name="Product">
+																			<cDeltaString>
+																				<Element>
+																					<Value>BelgianRail</Value>
+																				</Element>
+																			</cDeltaString>
+																		</Attribute>
+																	</Value>
+																</Element>
+															</iBlueprintLibrary-cBlueprintSetID>
+														</Attribute>
+														<Attribute name="BlueprintID">
+															<cDeltaString>
+																<Element>
+																	<Value>RailNetwork\Gantry\Gantry_01_PO.xml</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</iBlueprintLibrary-cAbsoluteBlueprintID>
+										</Attribute>
+										<Attribute name="TrackSpan">
+											<sUInt32>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</sUInt32>
+										</Attribute>
+										<Attribute name="TrackSpanRange">
+											<sFloat32>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="AnchorPoint">
+											<cTrackGantrySetBlueprint2-cTrackGantryBlueprint2-eAnchorPoint>
+												<Element>
+													<Value>ANCHOR_TRACK_SPAN</Value>
 												</Element>
 											</cTrackGantrySetBlueprint2-cTrackGantryBlueprint2-eAnchorPoint>
 										</Attribute>

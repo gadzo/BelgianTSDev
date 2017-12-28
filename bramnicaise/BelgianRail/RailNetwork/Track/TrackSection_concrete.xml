@@ -108,7 +108,7 @@
 							<Attribute name="CrossSectionCapID">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Track\TrackSection_concrete\track_concrete_cross_section.igs</Value>
+										<Value>RailNetwork\Track\TrackSection_concrete\track_concrete_cross_section_cap.igs</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -254,14 +254,14 @@
 							<Attribute name="PopulationFrequency">
 								<sFloat32>
 									<Element>
-										<Value>3.999</Value>
+										<Value>0.666</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
 							<Attribute name="ProfileMatchesPopulation">
 								<eBoolean>
 									<Element>
-										<Value>eFalse</Value>
+										<Value>eTrue</Value>
 									</Element>
 								</eBoolean>
 							</Attribute>
@@ -289,14 +289,14 @@
 							<Attribute name="StartBufferOffset">
 								<sFloat32>
 									<Element>
-										<Value>-20</Value>
+										<Value>500</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
 							<Attribute name="EndBufferOffset">
 								<sFloat32>
 									<Element>
-										<Value>-20</Value>
+										<Value>500</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
@@ -360,14 +360,14 @@
 							<Attribute name="SleeperPitch">
 								<sFloat32>
 									<Element>
-										<Value>0.6444</Value>
+										<Value>0.6664</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
 							<Attribute name="SleeperHeight">
 								<sFloat32>
 									<Element>
-										<Value>0.182</Value>
+										<Value>0.187</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
@@ -381,21 +381,21 @@
 							<Attribute name="SleeperWidth">
 								<sFloat32>
 									<Element>
-										<Value>0.147</Value>
+										<Value>0.117</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
 							<Attribute name="SleeperMaxLength">
 								<sFloat32>
 									<Element>
-										<Value>0.1</Value>
+										<Value>0.001</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
 							<Attribute name="SleeperTextureID">
 								<cDeltaString>
 									<Element>
-										<Value>RailNetwork\Track\Textures\ballast_01.tga</Value>
+										<Value>RailNetwork\Track\Textures\ballast_01_concrete.ace</Value>
 									</Element>
 								</cDeltaString>
 							</Attribute>
@@ -409,28 +409,28 @@
 							<Attribute name="SleeperMinU">
 								<sFloat32>
 									<Element>
-										<Value>0.235</Value>
+										<Value>0.27</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
 							<Attribute name="SleeperMaxU">
 								<sFloat32>
 									<Element>
-										<Value>0.795</Value>
+										<Value>0.73</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
 							<Attribute name="SleeperMinV">
 								<sFloat32>
 									<Element>
-										<Value>0.052</Value>
+										<Value>0.05</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
 							<Attribute name="SleeperMaxV">
 								<sFloat32>
 									<Element>
-										<Value>0.12</Value>
+										<Value>0.117</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
