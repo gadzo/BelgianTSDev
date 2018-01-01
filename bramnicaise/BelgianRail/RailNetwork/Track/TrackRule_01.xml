@@ -171,7 +171,7 @@
 							<Attribute name="MaxCantAngleDegrees">
 								<sFloat32>
 									<Element>
-										<Value>6</Value>
+										<Value>3</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
@@ -250,7 +250,7 @@
 							<Attribute name="MinRadius">
 								<sUInt32>
 									<Element>
-										<Value>70</Value>
+										<Value>40</Value>
 									</Element>
 								</sUInt32>
 							</Attribute>
@@ -486,7 +486,7 @@
 							<Attribute name="SidewaysOffset">
 								<sFloat32>
 									<Element>
-										<Value>1.57</Value>
+										<Value>0</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
@@ -523,14 +523,14 @@
 															<Attribute name="Provider">
 																<cDeltaString>
 																	<Element>
-																		<Value />
+																		<Value>bramnicaise</Value>
 																	</Element>
 																</cDeltaString>
 															</Attribute>
 															<Attribute name="Product">
 																<cDeltaString>
 																	<Element>
-																		<Value />
+																		<Value>BelgianRail</Value>
 																	</Element>
 																</cDeltaString>
 															</Attribute>
@@ -541,7 +541,7 @@
 											<Attribute name="BlueprintID">
 												<cDeltaString>
 													<Element>
-														<Value />
+														<Value>RailNetwork\Track\Junction\JunctionAutomatic.xml</Value>
 													</Element>
 												</cDeltaString>
 											</Attribute>
@@ -552,7 +552,7 @@
 							<Attribute name="SidewaysOffset">
 								<sFloat32>
 									<Element>
-										<Value>1.57</Value>
+										<Value>0</Value>
 									</Element>
 								</sFloat32>
 							</Attribute>
